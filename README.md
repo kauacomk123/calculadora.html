@@ -56,4 +56,4 @@ Criação de layouts responsivos com CSS.
 
 Integração de lógica de programação com a interface do usuário.
 
-Feito com ❤️ por [Kaua Santana] 🚀
+Feito com ❤️ por Kaua Santana 🚀
